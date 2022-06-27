@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "data-manage",
+  "description": "数据对接管理助手",
+  "appid": "wx7150b16b2705c2f2",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

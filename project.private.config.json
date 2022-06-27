@@ -1,0 +1,14 @@
+{
+  "projectname": "shaw-taro-template",
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": false,
+    "preloadBackgroundData": false
+  },
+  "description": "taro template",
+  "condition": {
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
